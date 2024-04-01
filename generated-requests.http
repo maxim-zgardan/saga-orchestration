@@ -1,0 +1,25 @@
+###
+POST http://localhost:8080/order/create
+Content-Type: application/json
+
+{"productId": 3,
+"userId": 3
+}
+
+<> 2024-03-31T214135.200.json
+<> 2024-03-31T214131.200.json
+<> 2024-03-31T214128.200.json
+<> 2024-03-31T214046.200.json
+<> 2024-03-31T214042.200.json
+<> 2024-03-31T214041.200.json
+<> 2024-03-31T213950.200.json
+
+###
+GET http://localhost:8080/order/all
+Content-Type: application/json
+
+<> 2024-03-31T214125.200.json
+<> 2024-03-31T214113.200.json
+<> 2024-03-31T214100.200.json
+<> 2024-03-31T214050.200.json
+<> 2024-03-31T214018.200.json
